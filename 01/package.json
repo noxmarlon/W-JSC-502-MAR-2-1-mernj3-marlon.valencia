@@ -1,0 +1,21 @@
+{
+  "name": "w-jsc-502-mar-2-1-mernj3-marlon.valencia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechWebAcademiePromo2023/W-JSC-502-MAR-2-1-mernj3-marlon.valencia.git"
+  },
+  "author": "", 
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "router": "^1.3.5"
+  },
+  "devDependencies": {},
+  "description": ""
+}
